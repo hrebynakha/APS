@@ -2,10 +2,20 @@
   <Version>2.1</Version>
   <FileID>9c9be188-17e2-4157-bdde-35ca5042181c</FileID>
   <ProjectType>0</ProjectType>
-  <Folders />
+  <Folders>
+    <Folder>module</Folder>
+    <Folder>module\functions</Folder>
+    <Folder>config</Folder>
+  </Folders>
   <Files>
     <File Build="0">Startup.pss</File>
     <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
     <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="2">module\APS.psd1</File>
+    <File Build="2">module\APS.psm1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Convert-FromSequrePas_ps1">module\functions\Convert-FromSequrePas.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Convert-ToSequrePas_ps1">module\functions\Convert-ToSequrePas.ps1</File>
+    <File Build="2">config\main.config</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-New-AESKey_ps1">module\functions\New-AESKey.ps1</File>
   </Files>
 </Project>

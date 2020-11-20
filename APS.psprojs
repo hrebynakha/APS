@@ -1,10 +1,19 @@
 ﻿<ProjectState>
   <Version>1.0</Version>
   <FileID>9c9be188-17e2-4157-bdde-35ca5042181c</FileID>
-  <OpenFolders />
+  <OpenFolders>
+    <Folder>module</Folder>
+    <Folder>module\functions</Folder>
+    <Folder>config</Folder>
+  </OpenFolders>
   <OpenFiles>
     <File>MainForm.psf</File>
     <File>Startup.pss</File>
     <File>Globals.ps1</File>
+    <File>module\functions\Convert-FromSequrePas.ps1</File>
+    <File>module\APS.psd1</File>
+    <File>module\APS.psm1</File>
+    <File>config\main.config</File>
+    <File>module\functions\Convert-ToSequrePas.ps1</File>
   </OpenFiles>
 </ProjectState>
