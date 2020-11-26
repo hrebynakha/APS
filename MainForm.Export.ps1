@@ -5,58 +5,62 @@
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-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#>
+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
+dcPXDQAA#>
 #endregion
 
 <#
     .NOTES
     --------------------------------------------------------------------------------
      Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2020 v5.7.172
-     Generated on:       11/19/2020 5:20 PM
+     Generated on:       11/26/2020 2:28 PM
      Generated by:       hrbnkh
     --------------------------------------------------------------------------------
     .DESCRIPTION
@@ -72,9 +76,9 @@ function Show-MainForm_psf {
 	#----------------------------------------------
 	#region Import the Assemblies
 	#----------------------------------------------
+	[void][reflection.assembly]::Load('System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
 	[void][reflection.assembly]::Load('System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	[void][reflection.assembly]::Load('System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
-	[void][reflection.assembly]::Load('System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
 	#endregion Import Assemblies
 
 	#----------------------------------------------
@@ -84,23 +88,26 @@ function Show-MainForm_psf {
 	$formAPS = New-Object 'System.Windows.Forms.Form'
 	$tabcontrol1 = New-Object 'System.Windows.Forms.TabControl'
 	$tabpage1 = New-Object 'System.Windows.Forms.TabPage'
+	$labelHostOrDescription = New-Object 'System.Windows.Forms.Label'
+	$textboxHost = New-Object 'System.Windows.Forms.TextBox'
+	$NewParentName = New-Object 'System.Windows.Forms.Label'
+	$textboxNewParent = New-Object 'System.Windows.Forms.TextBox'
+	$btnAdd_New_Parent = New-Object 'System.Windows.Forms.Button'
+	$listview1 = New-Object 'System.Windows.Forms.ListView'
+	$labelParent = New-Object 'System.Windows.Forms.Label'
+	$comboboxParent = New-Object 'System.Windows.Forms.ComboBox'
 	$textboxAddLogin = New-Object 'System.Windows.Forms.TextBox'
 	$labelAddLogin = New-Object 'System.Windows.Forms.Label'
 	$labelAddPassword = New-Object 'System.Windows.Forms.Label'
 	$textboxAddPassword = New-Object 'System.Windows.Forms.TextBox'
-	$buttonAdd = New-Object 'System.Windows.Forms.Button'
+	$buttonAddPassword = New-Object 'System.Windows.Forms.Button'
 	$textboxRunLog = New-Object 'System.Windows.Forms.TextBox'
-	$listview1 = New-Object 'System.Windows.Forms.ListView'
 	$textboxChosenFile = New-Object 'System.Windows.Forms.TextBox'
 	$labelChosenFile = New-Object 'System.Windows.Forms.Label'
 	$labelPasswordToKey = New-Object 'System.Windows.Forms.Label'
 	$textboxPasstoKey = New-Object 'System.Windows.Forms.TextBox'
 	$buttonRun = New-Object 'System.Windows.Forms.Button'
 	$tabpage2 = New-Object 'System.Windows.Forms.TabPage'
-	$numericupdownPrmB = New-Object 'System.Windows.Forms.NumericUpDown'
-	$numericupdownPrmA = New-Object 'System.Windows.Forms.NumericUpDown'
-	$labelParametrB = New-Object 'System.Windows.Forms.Label'
-	$labelParametrA = New-Object 'System.Windows.Forms.Label'
 	$textboxConfrimPassword = New-Object 'System.Windows.Forms.TextBox'
 	$labelConfrimPassword = New-Object 'System.Windows.Forms.Label'
 	$textboxCreatePassword = New-Object 'System.Windows.Forms.TextBox'
@@ -125,12 +132,14 @@ function Show-MainForm_psf {
 	$openfiledialog1 = New-Object 'System.Windows.Forms.OpenFileDialog'
 	$loadAPSToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
 	$versionToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
-	$columnheaderID = New-Object 'System.Windows.Forms.ColumnHeader'
-	$columnheaderLogin = New-Object 'System.Windows.Forms.ColumnHeader'
-	$columnheaderPublicPassword = New-Object 'System.Windows.Forms.ColumnHeader'
-	$columnheaderSystemID = New-Object 'System.Windows.Forms.ColumnHeader'
-	$columnheaderDate = New-Object 'System.Windows.Forms.ColumnHeader'
 	$errorprovider1 = New-Object 'System.Windows.Forms.ErrorProvider'
+	$columnheader1 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader2 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader3 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader4 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader5 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader6 = New-Object 'System.Windows.Forms.ColumnHeader'
+	$columnheader7 = New-Object 'System.Windows.Forms.ColumnHeader'
 	$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
 	#endregion Generated Form Objects
 
@@ -169,6 +178,7 @@ function Show-MainForm_psf {
 		Import-Module -PassThru "$PathToModule$ModuleName" #-Force -ErrorAction Ignore -WarningAction Ignore
 		$test = "tesgkdfdagv"
 		$Global:isTest = $true
+		$Global:OFS = "`r`n"
 	}
 	
 	
@@ -508,39 +518,80 @@ function Show-MainForm_psf {
 	$buttonCreate_Click={
 		#TODO: Place custom script here
 		#initials parameters
-		$errorprovider1.Clear()
-		$Type = $comboboxCreateType.SelectedItem;
-		$ADlogin = $textboxCreateLogin.Text;
-		$filename = $textboxCreateFileName.Text;
-		if ($numericupdownPrmA.Value -gt 25)
+		try
 		{
-			$errorprovider1.SetError($numericupdownPrmA,"Input value mast be less then 25")
-		}
-		else
-		{
-			$PrmA = $numericupdownPrmA.Value
-		}
-		if ($numericupdownPrmB.Value -gt 25)
-		{
-			$errorprovider1.SetError($numericupdownPrmB, "Input value mast be less then 25")
-		}
-		else
-		{
-			$PrmB = $numericupdownPrmB.Text
-		}
-		if ($PrmA -eq $PrmB)
-		{
-			[System.Windows.Forms.MessageBox]::Show('The parametr A and B must be different', 'Information', 'OK', 'Error')
-			return
-		}
+			$Global:OFS = "`r`n"
+			$textboxCreateLog.Clear();
+			$errorprovider1.Clear();
+			$Type = $comboboxCreateType.SelectedItem;
+			$ADlogin = $textboxCreateLogin.Text;
+			$filename = $textboxCreateFileName.Text;
+			
+			if ($textboxConfrimPassword.Text -ne $textboxCreatePassword.Text)
+			{
+				[System.Windows.Forms.MessageBox]::Show('Passwords does not  match', 'Information', 'OK', 'Error')
+				return
+			}
+			$textboxCreateLog.Text += "*LOG*---------Password OK" +$OFS
+			$ChildNameFolderChar = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+			[string]$ChildNameFolder = $ChildNameFolderChar.ToString()
+			mkdir "$PathToFile$ChildNameFolder"
+			$textboxCreateLog.Text += "*LOG*---------Creted new Folder  OK $PathToFile$ChildNameFolder" + $OFS
+			Compress-APK -InputPath "$PathToFile$ChildNameFolder" -RootFolder $ChildNameFolder -IsTest -$IsTest -filename $filename -textboxCreateLog $textboxCreateLog
+			try
+			{
+				Remove-Item "$($PathToFile)$($ChildNameFolder)" -Recurse -Force -Confirm:$false
+				Remove-Item "$($PathToFile)tes" -Recurse -Force -Confirm:$false
+				$textboxCreateLog.Text += "*LOG*---------Folder deleted OK" + $OFS
+			}
+			catch
+			{
+				$textboxCreateLog.Text += "*LOG*---------Error $_ path $PathToFile$ChildNameFolder " + $OFS
+			}
+			
+				
 		
-		if ($textboxConfrimPassword.Text -ne $textboxCreatePassword.Text)
-		{
-			[System.Windows.Forms.MessageBox]::Show('Passwords does not  match', 'Information', 'OK', 'Error')
-			return
+			$textboxCreateLog.Text += "*LOG*---------Compressed OK" + $OFS
+			$File = New-Object -TypeName psobject
+			$AESKey = New-AESKey -IsTest $true
+			$textboxCreateLog.Text += "*LOG*---------AES Key generated OK" + $OFS
+			$MainPassword = Convert-ToSequrePas -InputPass $textboxCreatePassword.Text -IsTest $IsTest -AESKey $AESKey
+			$textboxCreateLog.Text += "*LOG*---------Security password OK" + $OFS
+			$File | Add-Member -MemberType NoteProperty -Name "Security credentials" -Value $AESKey, $MainPassword
+			$Date = Get-Date
+			$File | Add-Member -MemberType NoteProperty -Name "Date created" -Value $Date
+			$File | Add-Member -MemberType NoteProperty -Name "Personal info" -Value $ADlogin, $filename
+			$File | Add-Member -MemberType NoteProperty -Name "Type" -Value $Type
+			$File | Add-Member -MemberType NoteProperty -Name "ChildNameFolder" -Value $ChildNameFolder
+			if (!(Test-Path $PathToFile))
+			{
+				mkdir $PathToFile
+				$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
+			}
+			else
+			{
+				$textboxCreateLog.Text += "*LOG*---------Folder  OK" + $OFS
+			}
+			
+			if (!(Test-Path $PathToFile\$ChildNameFolder))
+			{
+				mkdir $PathToFile\$ChildNameFolder
+				$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
+			}
+			else
+			{
+				$textboxCreateLog.Text += "*LOG*---------Folder  OK" + $OFS
+			}
+			$File | Export-Clixml -Path "$PathToFile\$filename.aps"
+			$textboxCreateLog.Text += "*LOG*---------File Genereted  OK" + $OFS
+			
+			
 		}
-		$sequrePassword = Convert-ToSequrePas -InputPass $textboxConfrimPassword.Text -PrmA $PrmA -PrmB $PrmB -IsTest $isTest
-		$textboxCreateLog.Text += $sequrePassword
+		catch
+		{
+			
+			$textboxCreateLog.Text+= "Error $_ when trying create new APS key"
+		}
 		
 	}
 	
@@ -551,146 +602,138 @@ function Show-MainForm_psf {
 	
 	$loadAPSToolStripMenuItem_Click={
 		#TODO: Place custom script here
+		$textboxPasstoKey.Clear()
 		$openfiledialog1.ShowDialog()
-		$PathToFile = $openfiledialog1.FileName.ToString()
-		$textboxChosenFile.Text = $PathToFile
-		<#
-		[string]$nameFile = Get-ChildItem $PathToFile | select Name
-		$nameFile = $nameFile.Replace("}", "")
-		$nameFile = $nameFile.Substring(7)
-		$textFile.Text = $nameFile
-		#>
+		$Global:PathToAPS = $openfiledialog1.FileName.ToString()
+		$textboxChosenFile.Text = $Global:PathToAPS
+		try
+		{
+			$Global:APS = Import-Clixml -Path $global:PathToAPS
+			$textboxRunLog.Text +="*LOG*---------APS  loaded" +  $OFS
+		}
+		catch
+		{
+			$textboxRunLog.Text += "*LOG*---------Error $_ when trying import APS key" + $OFS
+		}
 	}
 	
 	$buttonRun_Click={
 		#TODO: Place custom script here
-		#unscript *)%(E)(
-		$global:ASK = Import-Clixml -Path $textboxChosenFile.Text
-		$SecurePassword = $global:ASK.Password;
-		#$textboxRunLog.Text += "SC**" + $SecurePassword;
-		$UnSecPassword = $null;
 		$listview1.Items.Clear();
-		$i = 0;
-		while ($i -ne $SecurePassword.Length)
-		{
-			if (($SecurePassword[$i] -eq "*") -and ($SecurePassword[$i + 1] -eq ")") -and ($SecurePassword[$i + 2] -eq "%") -and ($SecurePassword[$i + 3] -eq "("))
-			{
-				$UnSecPassword += $SecurePassword[$i-1]
-			}
-			$i++
-		}
-		#$textboxRunLog.Text += "UNSC**" + $UnSecPassword;
-		if ($UnSecPassword -ne $textboxPasstoKey.Text)
+		$SeqPass = $global:APS.'Security credentials'[1]
+		$AESKey = $global:APS.'Security credentials'[0]
+		$InputPaswword=$textboxPasstoKey.Text
+		$APSUnSeqPass= Convert-FromSequrePas -InputPass $SeqPass -IsTest $true -AESKey $AESKey
+		if (!($APSUnSeqPass -eq $InputPaswword))
 		{
 			[System.Windows.Forms.MessageBox]::Show('Passwords does not  match', 'Access denied', 'OK', 'Error')
 			return
 		}
-		if ($global:ASK.FilePath -ne $null)
+		
+		$global:APK = 
+		$global:ASK = Get-ChildItem -Path "$PathToChildFolder\$($global:APS.ChildNameFolder)" | select *
+		
+		if ($global:ASK -ne $null)
 		{
-			#adding to table information
-			$items = Get-ChildItem -Path "C:\NP\APS\$($global:ASK.Folder)\$($global:ASK.FilePath)"
-			$i = 0;
-			foreach ($item in $items) {
-				
-				$global:APS = Import-Clixml -Path $item.FullName
-				$listv = $listview1.Items.Add($i);
-				$listv.SubItems.Add($global:APS.Login);
-				$listv.SubItems.Add($global:APS.Password);
-				$listv.SubItems.Add($global:APS.ID);
-				$listv.SubItems.Add($global:APS.Date.ToString());
-				$i++
+			$parent = $global:ASK | where { $_.Attributes -eq 'Directory' } | select Name
+			if ($parent.Count -gt 1)
+			{
+				$comboboxParent.DataSource = $parent.Name + "none"
+				$comboboxParent.SelectedItem = "none"
+				$textboxRunLog.Text += "*LOG*---------Add $($parent.Name)  to parent item" + $OFS
 			}
+			else
+			{
+				$tmpArray = @("$($parent.Name)", "none")
+				$comboboxParent.DataSource = $tmpArray
+				$comboboxParent.SelectedItem = "none"
+				$textboxRunLog.Text += "*LOG*---------Add one $($parent.Name)  to parent item" + $OFS
+			}
+			
+			#adding to table information
+			Add-ToListASK -ASK $global:ASK -IsTest $isTest -listview $listview1 -textboxRunLog $textboxRunLog
 		}
 		else
 		{
 			#we need create to the aps path  and document where will be save passwords and logins
-			[System.Windows.Forms.MessageBox]::Show('ASK does not have any password', 'Information', 'OK', 'Error')
+			[System.Windows.Forms.MessageBox]::Show('ASK does not have any password', 'Information', 'OK', 'Information')
 		}
 		
 		
 	}
-	
-	$buttonAdd_Click={
+	$buttonAddPassword_Click={
 		#TODO: Place custom script here
-		$global:ASK = Import-Clixml -Path $textboxChosenFile.Text
-		$SecurePassword = $global:ASK.Password;
-		$UnSecPassword = $null;
-		$i = 0;
-		[string]$AddFileName = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
-		[string]$BefFileName = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
-		while ($i -ne $SecurePassword.Length)
+		try
 		{
-			if (($SecurePassword[$i] -eq "*") -and ($SecurePassword[$i + 1] -eq ")") -and ($SecurePassword[$i + 2] -eq "%") -and ($SecurePassword[$i + 3] -eq "("))
+			$FileName = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+			$AESKey = $global:APS.'Security credentials'[0]
+			$Password = Convert-ToSequrePas -InputPass $textboxAddPassword.Text -IsTest $IsTest -AESKey $AESKey
+			$textboxRunLog.Text += "*LOG*---------Password Add OK" + $OFS
+			$File = New-Object -TypeName psobject
+			
+			$File | Add-Member -MemberType NoteProperty -Name "PWD" -Value $Password
+			$Date = Get-Date
+			$File | Add-Member -MemberType NoteProperty -Name "Date created" -Value $Date
+			$File | Add-Member -MemberType NoteProperty -Name "Personal info" -Value $textboxAddLogin.Text, $filename
+			$File | Add-Member -MemberType NoteProperty -Name "RootFolder" -Value $($global:APS.ChildNameFolder)
+			$File | Add-Member -MemberType NoteProperty -Name "ParentObject" -Value $comboboxParent.SelectedItem
+			$File | Add-Member -MemberType NoteProperty -Name "Host" -Value $textboxHost.Text
+			$textboxRunLog.Text += "*LOG*---------File Add OK" + $OFS
+			if ($File.ParentObject -eq "none")
 			{
-				$UnSecPassword += $SecurePassword[$i - 1]
+				$File | Export-Clixml -Path "$PathToChildFolder\$($global:APS.ChildNameFolder)\$FileName.ask"
 			}
-			$i++
-		}
-		if ($UnSecPassword -ne $textboxPasstoKey.Text)
-		{
-			[System.Windows.Forms.MessageBox]::Show('Passwords does not  match', 'Access denied', 'OK', 'Error')
-			return
-		}
-		if ($global:ASK.FilePath -ne $null)
-		{
-			#adding new login and path into $global:ASK.FilePath
-			$ID = (Get-ChildItem -Path "C:\NP\APS\$($global:ASK.Folder)\$($global:ASK.FilePath)").Count
-			#creting secure password 
-			$NewPassword = $null;
-			$AddPassword = $textboxAddPassword.Text;
-			$i = 0;
-			while ($i -ne $AddPassword.Length)
+			else
 			{
-				$NewPassword += $AddPassword[$i] + "%&(=?";
-				$i++	
+				$File | Export-Clixml -Path "$PathToChildFolder\$($global:APS.ChildNameFolder)\$($comboboxParent.SelectedItem)\$FileName.ask"
 			}
-			#creating new file with passwords keys .aps
-			$LoginPass = New-Object -TypeName System.Management.Automation.PSObject
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Login" -Value $textboxAddLogin.Text
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Password" -Value $NewPassword
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Date" -Value $(Get-Date)
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Folder" -Value $FolderName
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Filename" -Value $global:ASK.Filename
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "ID" -Value ($ID + 1);
-			$LoginPass | Export-Clixml -Path "C:\NP\APS\$($global:ASK.Folder)\$($global:ASK.FilePath)\$BefFileName$($ID + 1)$(Get-Date -Format "ss")$AddFileName.aps"
-			$textboxRunLog.Text += "********Adding new file C:\NP\APS\$($global:ASK.Folder)\$($FolderName)\$BefFileName$($ID + 1)$(Get-Date -Format "ss")$AddFileName.aps"
+			
+		}
+		catch
+		{
+			$textboxRunLog.Text += "*LOG*---------Error $_ when trying import APS key" + $OFS
+		}
+		#$comboboxParent.SelectedItem = "none"
+	}
+	
+	$btnAdd_New_Parent_Click={
+		#TODO: Place custom script here
+		mkdir "$PathToChildFolder\$($global:APS.ChildNameFolder)\$($textboxNewParent.Text)"
+		$global:ASK = Get-ChildItem -Path "$PathToChildFolder\$($global:APS.ChildNameFolder)"
+		$parent = $global:ASK | where { $_.Attributes -eq 'Directory' } | select Name
+		if ($parent.Count -gt 1)
+		{
+			$comboboxParent.DataSource = $parent.Name + "none"
+			$comboboxParent.SelectedItem = "none"
+			$textboxRunLog.Text += "*LOG*---------Add $($parent.Name)  to parent item" + $OFS
 		}
 		else
 		{
-			#this is first time adding loging and password
-			#creating and updating file .ask
-			[string]$FolderName = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
-			$global:ASK.FilePath = $FolderName;
-			if (!(Test-Path "C:\NP\APS\$($global:ASK.Folder)"))
-			{
-				mkdir "C:\NP\APS\$($global:ASK.Folder)"
-			}
-			$global:ASK | Export-Clixml -Path ("C:\NP\APS\$($global:ASK.Folder)\$($global:ASK.Filename).ask")
-			
-			mkdir "C:\NP\APS\$($global:ASK.Folder)\$($FolderName)"
-			$ID = (Get-ChildItem -Path "C:\NP\APS\$($global:ASK.Folder)\$($FolderName)").Count
-			#creting secure password
-			$NewPassword = $null;
-			$AddPassword = $textboxAddPassword.Text;
-			$i = 0;
-			while ($i -ne $AddPassword.Length)
-			{
-				$NewPassword += $AddPassword[$i] + "%&(=?";
-				$i++
-			}
-			#creating new file with passwords keys .aps
-			$LoginPass = New-Object -TypeName System.Management.Automation.PSObject
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Login" -Value $textboxAddLogin.Text
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Password" -Value $NewPassword
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Date" -Value $(Get-Date)
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Folder" -Value $FolderName
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "Filen" -Value $global:ASK.Filename
-			$LoginPass | Add-Member -MemberType NoteProperty -Name "ID" -Value ($ID + 1);
-			$LoginPass | Export-Clixml -Path "C:\NP\APS\$($global:ASK.Folder)\$($FolderName)\$BefFileName$($ID + 1)$(Get-Date -Format "ss")$AddFileName.aps"
-			
-			$textboxRunLog.Text += "********Adding new file C:\NP\APS\$($global:ASK.Folder)\$($FolderName)\$BefFileName$($ID + 1)$(Get-Date -Format "ss")$AddFileName.aps"
+			$tmpArray = @("$($parent.Name)", "none")
+			$comboboxParent.DataSource = $tmpArray
+			$comboboxParent.SelectedItem = "none"
+			$textboxRunLog.Text += "*LOG*---------Add one $($parent.Name)  to parent item" + $OFS
 		}
 	}
+	
+	$listview1_DoubleClick={
+		#TODO: Place custom script here
+		$SelectItemLogin = $listview1.SelectedItems[0].SubItems[2].Text
+		if ($SelectItemLogin -ne "-")
+		{
+			$SelectItemPas = $listview1.SelectedItems[0].SubItems[3].Text
+			$AESKey = $global:APS.'Security credentials'[0]
+			$UnSeqPass = Convert-FromSequrePas -InputPass $SelectItemPas -IsTest $true -AESKey $AESKey
+			$UnSeqPass | clip
+			[System.Windows.Forms.MessageBox]::Show("$SelectItemLogin password copy in your clipboard", 'Information', 'OK', 'Information')
+		}
+		else
+		{
+			[System.Windows.Forms.MessageBox]::Show("The parent has not any password", 'Information', 'OK', 'Error')
+		}
+		
+	}
+	
 	# --End User Generated Script--
 	#----------------------------------------------
 	#region Generated Events
@@ -707,7 +750,9 @@ function Show-MainForm_psf {
 		#Remove all event handlers from the controls
 		try
 		{
-			$buttonAdd.remove_Click($buttonAdd_Click)
+			$btnAdd_New_Parent.remove_Click($btnAdd_New_Parent_Click)
+			$listview1.remove_DoubleClick($listview1_DoubleClick)
+			$buttonAddPassword.remove_Click($buttonAddPassword_Click)
 			$textboxPasstoKey.remove_TextChanged($textboxPasstoKey_TextChanged)
 			$buttonRun.remove_Click($buttonRun_Click)
 			$buttonCreate.remove_Click($buttonCreate_Click)
@@ -730,8 +775,6 @@ function Show-MainForm_psf {
 	$tabpage1.SuspendLayout()
 	$tabpage2.SuspendLayout()
 	$menustrip1.SuspendLayout()
-	$numericupdownPrmA.BeginInit()
-	$numericupdownPrmB.BeginInit()
 	#
 	# formAPS
 	#
@@ -739,7 +782,7 @@ function Show-MainForm_psf {
 	$formAPS.Controls.Add($menustrip1)
 	$formAPS.AutoScaleDimensions = '6, 13'
 	$formAPS.AutoScaleMode = 'Font'
-	$formAPS.ClientSize = '493, 467'
+	$formAPS.ClientSize = '608, 509'
 	$formAPS.MainMenuStrip = $menustrip1
 	$formAPS.Name = 'formAPS'
 	$formAPS.StartPosition = 'CenterScreen'
@@ -754,18 +797,25 @@ function Show-MainForm_psf {
 	$tabcontrol1.Location = '0, 27'
 	$tabcontrol1.Name = 'tabcontrol1'
 	$tabcontrol1.SelectedIndex = 0
-	$tabcontrol1.Size = '493, 440'
+	$tabcontrol1.Size = '596, 478'
 	$tabcontrol1.TabIndex = 3
 	#
 	# tabpage1
 	#
+	$tabpage1.Controls.Add($labelHostOrDescription)
+	$tabpage1.Controls.Add($textboxHost)
+	$tabpage1.Controls.Add($NewParentName)
+	$tabpage1.Controls.Add($textboxNewParent)
+	$tabpage1.Controls.Add($btnAdd_New_Parent)
+	$tabpage1.Controls.Add($listview1)
+	$tabpage1.Controls.Add($labelParent)
+	$tabpage1.Controls.Add($comboboxParent)
 	$tabpage1.Controls.Add($textboxAddLogin)
 	$tabpage1.Controls.Add($labelAddLogin)
 	$tabpage1.Controls.Add($labelAddPassword)
 	$tabpage1.Controls.Add($textboxAddPassword)
-	$tabpage1.Controls.Add($buttonAdd)
+	$tabpage1.Controls.Add($buttonAddPassword)
 	$tabpage1.Controls.Add($textboxRunLog)
-	$tabpage1.Controls.Add($listview1)
 	$tabpage1.Controls.Add($textboxChosenFile)
 	$tabpage1.Controls.Add($labelChosenFile)
 	$tabpage1.Controls.Add($labelPasswordToKey)
@@ -774,22 +824,104 @@ function Show-MainForm_psf {
 	$tabpage1.Location = '4, 22'
 	$tabpage1.Name = 'tabpage1'
 	$tabpage1.Padding = '3, 3, 3, 3'
-	$tabpage1.Size = '485, 414'
+	$tabpage1.Size = '588, 452'
 	$tabpage1.TabIndex = 0
 	$tabpage1.Text = 'View'
 	$tabpage1.UseVisualStyleBackColor = $True
 	#
+	# labelHostOrDescription
+	#
+	$labelHostOrDescription.AutoSize = $True
+	$labelHostOrDescription.Location = '9, 351'
+	$labelHostOrDescription.Name = 'labelHostOrDescription'
+	$labelHostOrDescription.Size = '98, 17'
+	$labelHostOrDescription.TabIndex = 22
+	$labelHostOrDescription.Text = 'Host or description'
+	$labelHostOrDescription.UseCompatibleTextRendering = $True
+	#
+	# textboxHost
+	#
+	$textboxHost.Location = '9, 371'
+	$textboxHost.Name = 'textboxHost'
+	$textboxHost.Size = '118, 20'
+	$textboxHost.TabIndex = 21
+	#
+	# NewParentName
+	#
+	$NewParentName.AutoSize = $True
+	$NewParentName.Location = '381, 310'
+	$NewParentName.Name = 'NewParentName'
+	$NewParentName.Size = '96, 17'
+	$NewParentName.TabIndex = 20
+	$NewParentName.Text = 'New Parent Name'
+	$NewParentName.UseCompatibleTextRendering = $True
+	#
+	# textboxNewParent
+	#
+	$textboxNewParent.Location = '381, 330'
+	$textboxNewParent.Name = 'textboxNewParent'
+	$textboxNewParent.Size = '190, 20'
+	$textboxNewParent.TabIndex = 19
+	#
+	# btnAdd_New_Parent
+	#
+	$btnAdd_New_Parent.Location = '475, 353'
+	$btnAdd_New_Parent.Name = 'btnAdd_New_Parent'
+	$btnAdd_New_Parent.Size = '96, 35'
+	$btnAdd_New_Parent.TabIndex = 18
+	$btnAdd_New_Parent.Text = 'Add New Parent'
+	$btnAdd_New_Parent.UseCompatibleTextRendering = $True
+	$btnAdd_New_Parent.UseVisualStyleBackColor = $True
+	$btnAdd_New_Parent.add_Click($btnAdd_New_Parent_Click)
+	#
+	# listview1
+	#
+	[void]$listview1.Columns.Add($columnheader1)
+	[void]$listview1.Columns.Add($columnheader6)
+	[void]$listview1.Columns.Add($columnheader2)
+	[void]$listview1.Columns.Add($columnheader3)
+	[void]$listview1.Columns.Add($columnheader4)
+	[void]$listview1.Columns.Add($columnheader5)
+	[void]$listview1.Columns.Add($columnheader7)
+	$listview1.FullRowSelect = $True
+	$listview1.Location = '8, 49'
+	$listview1.Name = 'listview1'
+	$listview1.Size = '563, 258'
+	$listview1.TabIndex = 17
+	$listview1.UseCompatibleStateImageBehavior = $False
+	$listview1.View = 'Details'
+	$listview1.add_DoubleClick($listview1_DoubleClick)
+	#
+	# labelParent
+	#
+	$labelParent.AutoSize = $True
+	$labelParent.Location = '8, 310'
+	$labelParent.Name = 'labelParent'
+	$labelParent.Size = '38, 17'
+	$labelParent.TabIndex = 16
+	$labelParent.Text = 'Parent'
+	$labelParent.UseCompatibleTextRendering = $True
+	#
+	# comboboxParent
+	#
+	$comboboxParent.FormattingEnabled = $True
+	[void]$comboboxParent.Items.Add('none')
+	$comboboxParent.Location = '8, 330'
+	$comboboxParent.Name = 'comboboxParent'
+	$comboboxParent.Size = '121, 21'
+	$comboboxParent.TabIndex = 14
+	#
 	# textboxAddLogin
 	#
-	$textboxAddLogin.Location = '23, 326'
+	$textboxAddLogin.Location = '131, 330'
 	$textboxAddLogin.Name = 'textboxAddLogin'
-	$textboxAddLogin.Size = '150, 20'
+	$textboxAddLogin.Size = '136, 20'
 	$textboxAddLogin.TabIndex = 13
 	#
 	# labelAddLogin
 	#
 	$labelAddLogin.AutoSize = $True
-	$labelAddLogin.Location = '23, 307'
+	$labelAddLogin.Location = '131, 310'
 	$labelAddLogin.Name = 'labelAddLogin'
 	$labelAddLogin.Size = '55, 17'
 	$labelAddLogin.TabIndex = 12
@@ -799,7 +931,7 @@ function Show-MainForm_psf {
 	# labelAddPassword
 	#
 	$labelAddPassword.AutoSize = $True
-	$labelAddPassword.Location = '202, 307'
+	$labelAddPassword.Location = '147, 351'
 	$labelAddPassword.Name = 'labelAddPassword'
 	$labelAddPassword.Size = '77, 17'
 	$labelAddPassword.TabIndex = 11
@@ -808,51 +940,37 @@ function Show-MainForm_psf {
 	#
 	# textboxAddPassword
 	#
-	$textboxAddPassword.Location = '202, 327'
+	$textboxAddPassword.Location = '133, 371'
 	$textboxAddPassword.Name = 'textboxAddPassword'
-	$textboxAddPassword.Size = '100, 20'
+	$textboxAddPassword.Size = '134, 20'
 	$textboxAddPassword.TabIndex = 10
 	#
-	# buttonAdd
+	# buttonAddPassword
 	#
-	$buttonAdd.Location = '386, 313'
-	$buttonAdd.Name = 'buttonAdd'
-	$buttonAdd.Size = '96, 34'
-	$buttonAdd.TabIndex = 9
-	$buttonAdd.Text = 'Add'
-	$buttonAdd.UseCompatibleTextRendering = $True
-	$buttonAdd.UseVisualStyleBackColor = $True
-	$buttonAdd.add_Click($buttonAdd_Click)
+	$buttonAddPassword.Location = '285, 350'
+	$buttonAddPassword.Name = 'buttonAddPassword'
+	$buttonAddPassword.Size = '81, 41'
+	$buttonAddPassword.TabIndex = 9
+	$buttonAddPassword.Text = 'Add Password'
+	$buttonAddPassword.UseCompatibleTextRendering = $True
+	$buttonAddPassword.UseVisualStyleBackColor = $True
+	$buttonAddPassword.add_Click($buttonAddPassword_Click)
 	#
 	# textboxRunLog
 	#
-	$textboxRunLog.Location = '23, 366'
+	$textboxRunLog.Location = '8, 397'
 	$textboxRunLog.Multiline = $True
 	$textboxRunLog.Name = 'textboxRunLog'
-	$textboxRunLog.Size = '424, 40'
+	$textboxRunLog.ScrollBars = 'Vertical'
+	$textboxRunLog.Size = '563, 47'
 	$textboxRunLog.TabIndex = 8
-	#
-	# listview1
-	#
-	[void]$listview1.Columns.Add($columnheaderID)
-	[void]$listview1.Columns.Add($columnheaderLogin)
-	[void]$listview1.Columns.Add($columnheaderPublicPassword)
-	[void]$listview1.Columns.Add($columnheaderSystemID)
-	[void]$listview1.Columns.Add($columnheaderDate)
-	$listview1.FullRowSelect = $True
-	$listview1.Location = '0, 49'
-	$listview1.Name = 'listview1'
-	$listview1.Size = '485, 251'
-	$listview1.TabIndex = 7
-	$listview1.UseCompatibleStateImageBehavior = $False
-	$listview1.View = 'Details'
 	#
 	# textboxChosenFile
 	#
 	$textboxChosenFile.Location = '3, 23'
 	$textboxChosenFile.Name = 'textboxChosenFile'
 	$textboxChosenFile.ReadOnly = $True
-	$textboxChosenFile.Size = '243, 20'
+	$textboxChosenFile.Size = '322, 20'
 	$textboxChosenFile.TabIndex = 6
 	#
 	# labelChosenFile
@@ -868,7 +986,7 @@ function Show-MainForm_psf {
 	# labelPasswordToKey
 	#
 	$labelPasswordToKey.AutoSize = $True
-	$labelPasswordToKey.Location = '252, 3'
+	$labelPasswordToKey.Location = '341, 0'
 	$labelPasswordToKey.Name = 'labelPasswordToKey'
 	$labelPasswordToKey.Size = '87, 17'
 	$labelPasswordToKey.TabIndex = 4
@@ -877,7 +995,7 @@ function Show-MainForm_psf {
 	#
 	# textboxPasstoKey
 	#
-	$textboxPasstoKey.Location = '252, 23'
+	$textboxPasstoKey.Location = '341, 23'
 	$textboxPasstoKey.Name = 'textboxPasstoKey'
 	$textboxPasstoKey.Size = '87, 20'
 	$textboxPasstoKey.TabIndex = 3
@@ -886,7 +1004,7 @@ function Show-MainForm_psf {
 	#
 	# buttonRun
 	#
-	$buttonRun.Location = '381, 12'
+	$buttonRun.Location = '470, 12'
 	$buttonRun.Name = 'buttonRun'
 	$buttonRun.Size = '101, 31'
 	$buttonRun.TabIndex = 1
@@ -897,10 +1015,6 @@ function Show-MainForm_psf {
 	#
 	# tabpage2
 	#
-	$tabpage2.Controls.Add($numericupdownPrmB)
-	$tabpage2.Controls.Add($numericupdownPrmA)
-	$tabpage2.Controls.Add($labelParametrB)
-	$tabpage2.Controls.Add($labelParametrA)
 	$tabpage2.Controls.Add($textboxConfrimPassword)
 	$tabpage2.Controls.Add($labelConfrimPassword)
 	$tabpage2.Controls.Add($textboxCreatePassword)
@@ -916,44 +1030,10 @@ function Show-MainForm_psf {
 	$tabpage2.Location = '4, 22'
 	$tabpage2.Name = 'tabpage2'
 	$tabpage2.Padding = '3, 3, 3, 3'
-	$tabpage2.Size = '485, 414'
+	$tabpage2.Size = '588, 452'
 	$tabpage2.TabIndex = 1
 	$tabpage2.Text = 'Creating'
 	$tabpage2.UseVisualStyleBackColor = $True
-	#
-	# numericupdownPrmB
-	#
-	$numericupdownPrmB.Location = '340, 53'
-	$numericupdownPrmB.Name = 'numericupdownPrmB'
-	$numericupdownPrmB.Size = '44, 20'
-	$numericupdownPrmB.TabIndex = 17
-	#
-	# numericupdownPrmA
-	#
-	$numericupdownPrmA.Location = '340, 21'
-	$numericupdownPrmA.Name = 'numericupdownPrmA'
-	$numericupdownPrmA.Size = '44, 20'
-	$numericupdownPrmA.TabIndex = 16
-	#
-	# labelParametrB
-	#
-	$labelParametrB.AutoSize = $True
-	$labelParametrB.Location = '268, 56'
-	$labelParametrB.Name = 'labelParametrB'
-	$labelParametrB.Size = '61, 17'
-	$labelParametrB.TabIndex = 15
-	$labelParametrB.Text = 'Parametr B'
-	$labelParametrB.UseCompatibleTextRendering = $True
-	#
-	# labelParametrA
-	#
-	$labelParametrA.AutoSize = $True
-	$labelParametrA.Location = '268, 24'
-	$labelParametrA.Name = 'labelParametrA'
-	$labelParametrA.Size = '61, 17'
-	$labelParametrA.TabIndex = 14
-	$labelParametrA.Text = 'Parametr A'
-	$labelParametrA.UseCompatibleTextRendering = $True
 	#
 	# textboxConfrimPassword
 	#
@@ -1057,7 +1137,7 @@ function Show-MainForm_psf {
 	#
 	$buttonCreate.Location = '365, 372'
 	$buttonCreate.Name = 'buttonCreate'
-	$buttonCreate.Size = '75, 23'
+	$buttonCreate.Size = '75, 37'
 	$buttonCreate.TabIndex = 0
 	$buttonCreate.Text = 'Create'
 	$buttonCreate.UseCompatibleTextRendering = $True
@@ -1069,9 +1149,9 @@ function Show-MainForm_psf {
 	$tabpage3.Location = '4, 22'
 	$tabpage3.Name = 'tabpage3'
 	$tabpage3.Padding = '3, 3, 3, 3'
-	$tabpage3.Size = '485, 414'
+	$tabpage3.Size = '588, 452'
 	$tabpage3.TabIndex = 2
-	$tabpage3.Text = 'tabpage3'
+	$tabpage3.Text = 'Testing'
 	$tabpage3.UseVisualStyleBackColor = $True
 	#
 	# menustrip1
@@ -1081,7 +1161,7 @@ function Show-MainForm_psf {
 	[void]$menustrip1.Items.Add($helpToolStripMenuItem)
 	$menustrip1.Location = '0, 0'
 	$menustrip1.Name = 'menustrip1'
-	$menustrip1.Size = '493, 24'
+	$menustrip1.Size = '608, 24'
 	$menustrip1.TabIndex = 0
 	$menustrip1.Text = 'menustrip1'
 	#
@@ -1153,35 +1233,43 @@ function Show-MainForm_psf {
 	$versionToolStripMenuItem.Size = '145, 22'
 	$versionToolStripMenuItem.Text = 'Version'
 	#
-	# columnheaderID
-	#
-	$columnheaderID.Text = 'ID'
-	$columnheaderID.Width = 40
-	#
-	# columnheaderLogin
-	#
-	$columnheaderLogin.Text = 'Login'
-	$columnheaderLogin.Width = 76
-	#
-	# columnheaderPublicPassword
-	#
-	$columnheaderPublicPassword.Text = 'PublicPassword'
-	$columnheaderPublicPassword.Width = 203
-	#
-	# columnheaderSystemID
-	#
-	$columnheaderSystemID.Text = 'SystemID'
-	#
-	# columnheaderDate
-	#
-	$columnheaderDate.Text = 'Date'
-	$columnheaderDate.Width = 98
-	#
 	# errorprovider1
 	#
 	$errorprovider1.ContainerControl = $formAPS
-	$numericupdownPrmB.EndInit()
-	$numericupdownPrmA.EndInit()
+	#
+	# columnheader1
+	#
+	$columnheader1.Text = 'ID'
+	$columnheader1.Width = 27
+	#
+	# columnheader2
+	#
+	$columnheader2.Text = 'Login'
+	$columnheader2.Width = 83
+	#
+	# columnheader3
+	#
+	$columnheader3.Text = 'Password'
+	$columnheader3.Width = 62
+	#
+	# columnheader4
+	#
+	$columnheader4.Text = 'File'
+	$columnheader4.Width = 46
+	#
+	# columnheader5
+	#
+	$columnheader5.Text = 'Date'
+	$columnheader5.Width = 116
+	#
+	# columnheader6
+	#
+	$columnheader6.Text = 'Parent'
+	#
+	# columnheader7
+	#
+	$columnheader7.Text = 'Description'
+	$columnheader7.Width = 94
 	$menustrip1.ResumeLayout()
 	$tabpage2.ResumeLayout()
 	$tabpage1.ResumeLayout()

@@ -17,5 +17,8 @@
     <File Build="0" Shared="False" ReferenceFunction="Invoke-Convert-ToSequrePas_ps1">module\functions\Convert-ToSequrePas.ps1</File>
     <File Build="2">config\main.config</File>
     <File Build="0" Shared="False" ReferenceFunction="Invoke-New-AESKey_ps1">module\functions\New-AESKey.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Add-ToListASK_ps1">module\functions\Add-ToListASK.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Compress-APK_ps1">module\functions\Compress-APK.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Expand-APK_ps1">module\functions\Expand-APK.ps1</File>
   </Files>
 </Project>
