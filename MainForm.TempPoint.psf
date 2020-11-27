@@ -1,6 +1,6 @@
 ﻿<File version="3.1">
   <FileID>2b855348-feeb-402b-ba34-805d19f52a6d</FileID>
-  <LastExport>132502728556214255</LastExport>
+  <LastExport>132508673333076879</LastExport>
   <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFH3SURBVHhe7d13eFR3niZ6T9id5z6z9/5xn3vv
 7B93d+/szuxOT/dMh5luh+52JmMwBmOCsQEDBkwOIgkkchISCBA5IySCiEIR5ZxzzlmlLFUph/f+
@@ -371,50 +371,51 @@ ZMmS0rYOoKEdypUYhmEYhhmdqRPpAbB9hyOMY/7HTZ8+I3/7doc+e/sdfbIxMAzDMAwzerNjx86+
 2XPmdBvHPBERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
 ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
 EREREREREREREREREREREREREREREREREREREREREWndG2/8/5uDBwVT5klLAAAAAElFTkSuQmCC</Preview>
-  <Form>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</Form>
+  <Form>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</Form>
   <Code><![CDATA[$MainConfig = Get-Content .\config\main.config
 Write-Host "Load config"
 foreach ($line in $MainConfig)
@@ -804,22 +805,11 @@ $buttonCreate_Click={
 		$textboxCreateLog.Text += "*LOG*---------Password OK" +$OFS
 		$ChildNameFolderChar = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
 		[string]$ChildNameFolder = $ChildNameFolderChar.ToString()
-		mkdir "$PathToFile$ChildNameFolder"
-		$textboxCreateLog.Text += "*LOG*---------Creted new Folder  OK $PathToFile$ChildNameFolder" + $OFS
-		Compress-APK -InputPath "$PathToFile$ChildNameFolder" -RootFolder $ChildNameFolder -IsTest -$IsTest -filename $filename -textboxCreateLog $textboxCreateLog
-		try
-		{
-			Remove-Item "$($PathToFile)$($ChildNameFolder)" -Recurse -Force -Confirm:$false
-			Remove-Item "$($PathToFile)tes" -Recurse -Force -Confirm:$false
-			$textboxCreateLog.Text += "*LOG*---------Folder deleted OK" + $OFS
-		}
-		catch
-		{
-			$textboxCreateLog.Text += "*LOG*---------Error $_ path $PathToFile$ChildNameFolder " + $OFS
-		}
-		
-			
-	
+		$CFLDR = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+		mkdir "$PathToFile\$CFLDR\root"
+		$textbox1.Text += "*LOG*---------Creted new Folder  OK $PathToFile\$CFLDR " + $OFS
+		Compress-APK -InputPath "$PathToFile\$CFLDR" -filename $filename -textboxCreateLog $textboxCreateLog
+		$global:Error.Clear();
 		$textboxCreateLog.Text += "*LOG*---------Compressed OK" + $OFS
 		$File = New-Object -TypeName psobject
 		$AESKey = New-AESKey -IsTest $true
@@ -835,16 +825,6 @@ $buttonCreate_Click={
 		if (!(Test-Path $PathToFile))
 		{
 			mkdir $PathToFile
-			$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
-		}
-		else
-		{
-			$textboxCreateLog.Text += "*LOG*---------Folder  OK" + $OFS
-		}
-		
-		if (!(Test-Path $PathToFile\$ChildNameFolder))
-		{
-			mkdir $PathToFile\$ChildNameFolder
 			$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
 		}
 		else
@@ -1001,6 +981,26 @@ $listview1_DoubleClick={
 		[System.Windows.Forms.MessageBox]::Show("The parent has not any password", 'Information', 'OK', 'Error')
 	}
 	
+}
+
+$button1_Click={
+	#TODO: Place custom script here
+	$CFLDR = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+	mkdir "$PathToFile\$CFLDR"
+	$textbox1.Text += "*LOG*---------Creted new Folder  OK $PathToFile\$CFLDR " + $OFS
+	#Compress-APK -InputPath "$PathToFile\$ChildNameFolder" -filename $filename -textboxCreateLog $textboxCreateLog
+	$global:Error.Clear();
+	$DeletingPath = "$($PathToFile)\$($CFLDR)"
+	Wait-Event -Timeout 1
+	try
+	{
+		Write-Host "Deleting folders $($PathToFile)\$($CFLDR)" -ForegroundColor Green
+		Remove-Item -LiteralPath $DeletingPath -Recurse -Force -Confirm:$false
+	}
+	catch
+	{
+		$textbox1.Text += "*LOG*---------Error $_ $PathToFile\$CFLDR " + $OFS
+	}
 }
 ]]></Code>
   <Mode>1</Mode>

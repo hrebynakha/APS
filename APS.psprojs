@@ -15,5 +15,6 @@
     <File>module\APS.psm1</File>
     <File>config\main.config</File>
     <File>module\functions\Convert-ToSequrePas.ps1</File>
+    <File>module\functions\Compress-APK.ps1</File>
   </OpenFiles>
 </ProjectState>

@@ -5,62 +5,63 @@
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-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
-dcPXDQAA#>
+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
+/297+Pf/ACM5PTUtDgAA#>
 #endregion
 
 <#
     .NOTES
     --------------------------------------------------------------------------------
      Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2020 v5.7.172
-     Generated on:       11/26/2020 2:28 PM
+     Generated on:       11/27/2020 11:01 AM
      Generated by:       hrbnkh
     --------------------------------------------------------------------------------
     .DESCRIPTION
@@ -121,6 +122,8 @@ function Show-MainForm_psf {
 	$Type = New-Object 'System.Windows.Forms.Label'
 	$buttonCreate = New-Object 'System.Windows.Forms.Button'
 	$tabpage3 = New-Object 'System.Windows.Forms.TabPage'
+	$textbox1 = New-Object 'System.Windows.Forms.TextBox'
+	$button1 = New-Object 'System.Windows.Forms.Button'
 	$menustrip1 = New-Object 'System.Windows.Forms.MenuStrip'
 	$fileToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
 	$exitToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
@@ -535,22 +538,11 @@ function Show-MainForm_psf {
 			$textboxCreateLog.Text += "*LOG*---------Password OK" +$OFS
 			$ChildNameFolderChar = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
 			[string]$ChildNameFolder = $ChildNameFolderChar.ToString()
-			mkdir "$PathToFile$ChildNameFolder"
-			$textboxCreateLog.Text += "*LOG*---------Creted new Folder  OK $PathToFile$ChildNameFolder" + $OFS
-			Compress-APK -InputPath "$PathToFile$ChildNameFolder" -RootFolder $ChildNameFolder -IsTest -$IsTest -filename $filename -textboxCreateLog $textboxCreateLog
-			try
-			{
-				Remove-Item "$($PathToFile)$($ChildNameFolder)" -Recurse -Force -Confirm:$false
-				Remove-Item "$($PathToFile)tes" -Recurse -Force -Confirm:$false
-				$textboxCreateLog.Text += "*LOG*---------Folder deleted OK" + $OFS
-			}
-			catch
-			{
-				$textboxCreateLog.Text += "*LOG*---------Error $_ path $PathToFile$ChildNameFolder " + $OFS
-			}
-			
-				
-		
+			$CFLDR = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+			mkdir "$PathToFile\$CFLDR\root"
+			$textbox1.Text += "*LOG*---------Creted new Folder  OK $PathToFile\$CFLDR " + $OFS
+			Compress-APK -InputPath "$PathToFile\$CFLDR" -filename $filename -textboxCreateLog $textboxCreateLog
+			$global:Error.Clear();
 			$textboxCreateLog.Text += "*LOG*---------Compressed OK" + $OFS
 			$File = New-Object -TypeName psobject
 			$AESKey = New-AESKey -IsTest $true
@@ -566,16 +558,6 @@ function Show-MainForm_psf {
 			if (!(Test-Path $PathToFile))
 			{
 				mkdir $PathToFile
-				$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
-			}
-			else
-			{
-				$textboxCreateLog.Text += "*LOG*---------Folder  OK" + $OFS
-			}
-			
-			if (!(Test-Path $PathToFile\$ChildNameFolder))
-			{
-				mkdir $PathToFile\$ChildNameFolder
 				$textboxCreateLog.Text += "*LOG*---------Create Folder  OK" + $OFS
 			}
 			else
@@ -734,6 +716,26 @@ function Show-MainForm_psf {
 		
 	}
 	
+	$button1_Click={
+		#TODO: Place custom script here
+		$CFLDR = -join (1 .. 24 | % { [char[]]'ABCDEFGHIJKLMNOPQRSTUWXYZ1234567890abcdfeghijklmnopqrstuvwxyz' | Get-Random })
+		mkdir "$PathToFile\$CFLDR"
+		$textbox1.Text += "*LOG*---------Creted new Folder  OK $PathToFile\$CFLDR " + $OFS
+		#Compress-APK -InputPath "$PathToFile\$ChildNameFolder" -filename $filename -textboxCreateLog $textboxCreateLog
+		$global:Error.Clear();
+		$DeletingPath = "$($PathToFile)\$($CFLDR)"
+		Wait-Event -Timeout 1
+		try
+		{
+			Write-Host "Deleting folders $($PathToFile)\$($CFLDR)" -ForegroundColor Green
+			Remove-Item -LiteralPath $DeletingPath -Recurse -Force -Confirm:$false
+		}
+		catch
+		{
+			$textbox1.Text += "*LOG*---------Error $_ $PathToFile\$CFLDR " + $OFS
+		}
+	}
+	
 	# --End User Generated Script--
 	#----------------------------------------------
 	#region Generated Events
@@ -756,6 +758,7 @@ function Show-MainForm_psf {
 			$textboxPasstoKey.remove_TextChanged($textboxPasstoKey_TextChanged)
 			$buttonRun.remove_Click($buttonRun_Click)
 			$buttonCreate.remove_Click($buttonCreate_Click)
+			$button1.remove_Click($button1_Click)
 			$formAPS.remove_Load($formAPS_Load)
 			$exitToolStripMenuItem.remove_Click($exitToolStripMenuItem_Click)
 			$aboutToolStripMenuItem.remove_Click($aboutToolStripMenuItem_Click)
@@ -774,6 +777,7 @@ function Show-MainForm_psf {
 	$tabcontrol1.SuspendLayout()
 	$tabpage1.SuspendLayout()
 	$tabpage2.SuspendLayout()
+	$tabpage3.SuspendLayout()
 	$menustrip1.SuspendLayout()
 	#
 	# formAPS
@@ -1146,6 +1150,8 @@ function Show-MainForm_psf {
 	#
 	# tabpage3
 	#
+	$tabpage3.Controls.Add($textbox1)
+	$tabpage3.Controls.Add($button1)
 	$tabpage3.Location = '4, 22'
 	$tabpage3.Name = 'tabpage3'
 	$tabpage3.Padding = '3, 3, 3, 3'
@@ -1153,6 +1159,25 @@ function Show-MainForm_psf {
 	$tabpage3.TabIndex = 2
 	$tabpage3.Text = 'Testing'
 	$tabpage3.UseVisualStyleBackColor = $True
+	#
+	# textbox1
+	#
+	$textbox1.Location = '157, 181'
+	$textbox1.Multiline = $True
+	$textbox1.Name = 'textbox1'
+	$textbox1.Size = '370, 171'
+	$textbox1.TabIndex = 1
+	#
+	# button1
+	#
+	$button1.Location = '325, 76'
+	$button1.Name = 'button1'
+	$button1.Size = '75, 23'
+	$button1.TabIndex = 0
+	$button1.Text = 'button1'
+	$button1.UseCompatibleTextRendering = $True
+	$button1.UseVisualStyleBackColor = $True
+	$button1.add_Click($button1_Click)
 	#
 	# menustrip1
 	#
@@ -1271,6 +1296,7 @@ function Show-MainForm_psf {
 	$columnheader7.Text = 'Description'
 	$columnheader7.Width = 94
 	$menustrip1.ResumeLayout()
+	$tabpage3.ResumeLayout()
 	$tabpage2.ResumeLayout()
 	$tabpage1.ResumeLayout()
 	$tabcontrol1.ResumeLayout()
